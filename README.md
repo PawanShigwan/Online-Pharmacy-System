@@ -140,7 +140,4 @@ This project is licensed under the MIT License.
 
 ---
 
-I can also **create a version with badges** for Python version, license, and GitHub issues if you want it to look **more professional** on GitHub.
-
-Do you want me to do that?
 
